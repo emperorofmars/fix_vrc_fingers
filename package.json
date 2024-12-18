@@ -1,0 +1,29 @@
+{
+	"name": "com.squirrelbite.fix_vrc_fingers",
+	"displayName": "Fix VRC Fingers",
+	"version": "0.1.0",
+	"description": "Workaround for VRChat ignoring Unity muscle-settings for finger bones when using Valve Index controllers.",
+	"unity": "2022.3",
+	"unityRelease": "6f1",
+	"license": "MIT",
+	"dependencies": {},
+	"keywords": [
+		"vrc",
+		"vrchat",
+		"workaround"
+	],
+	"author": {
+		"name": "Emperor of Mars",
+		"email": "mars@squirrel.pub",
+		"url": "https://github.com/emperorofmars/fix_vrc_fingers"
+	},
+	"type": "library",
+	"url": "",
+	"gitDependencies": {},
+	"vpmDependencies": {},
+	"legacyFolders": {
+		"Assets\\fix_vrc_fingers": ""
+	},
+	"legacyFiles": {},
+	"hideInEditor": false
+}
