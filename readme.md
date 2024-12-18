@@ -15,6 +15,8 @@ The moment VRChat fixes that bug, this tool will become obsolete and should not 
 * Optionally tweak the `Factor` value.
 * Upload to VRChat!
 
+![](./Docs~/Example.png)
+
 ## How It Works
 It generates a 'shadow-rig' for the finger bones, which will be mapped in the Unity-Avatar.\
 The actual bones to which your model is weight-painted to, will be renamed.\
