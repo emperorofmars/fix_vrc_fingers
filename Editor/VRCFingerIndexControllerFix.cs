@@ -14,7 +14,7 @@ namespace com.squirrelbite.fix_vrc_fingers
 	public class VRCFingerIndexControllerFix : MonoBehaviour, IEditorOnly
 	{
 		public bool Enabled = true;
-		public float Factor = 1;
+		[Range(0, 1)] public float Factor = 1;
 	}
 
 	[InitializeOnLoad]
