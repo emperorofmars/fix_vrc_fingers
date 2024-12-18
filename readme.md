@@ -9,7 +9,7 @@ This is a stupid utility which automatically generates a workaround for this bug
 The moment VRChat fixes that bug, this tool will become obsolete and should not be used.
 
 ## Usage
-* Add the [Squirrelbite repository]() to the VRChat Creator Companion.
+* Add the **[Squirrelbite repository](https://squirrelbite.github.io/vpm/)** to the VRChat Creator Companion.
 * Install the `Fix VRC Fingers` package in your avatar-project.
 * Add the `VRCFingerIndexControllerFix` Component to your avatar's root GameObject.
 * Optionally tweak the `Factor` value.
