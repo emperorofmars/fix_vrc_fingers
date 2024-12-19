@@ -18,8 +18,11 @@ The moment VRChat fixes that bug, this tool will become obsolete and should not 
 Note, this will add 30 VRC Rotation Constraints to your avatar, and may negatively impact your avatar's performance rating.
 
 ![](./Docs~/Example.png)
+![](./Docs~/fingers_fix.png)
 
-Alternatively, you can also apply the fix manually. To do so, open the utility under `Tools` → `Fix VRC Fingers (For Valve Index Controllers)`. Drag the avatar's root GameObject in, optionally tweak the `Factor` value, and hit the `Fix` button.
+Alternatively, you can also apply the fix manually.\
+To do so, open the utility under `Tools` → `Fix VRC Fingers (For Valve Index Controllers)`.\
+Drag the avatar's root GameObject in, optionally tweak the `Factor` value, and hit the `Fix` button.
 
 ## How It Works
 It generates a 'shadow-rig' for the finger bones, which will be mapped in the Unity-Avatar.\
